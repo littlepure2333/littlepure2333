@@ -10,7 +10,9 @@ I'm a novice to computer vision.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
@@ -19,7 +21,7 @@ I'm a novice to computer vision.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
 
-### Github stats
+## Github stats
 [![Github](https://img.shields.io/github/followers/littlepure2333?label=Follow&style=social)](https://github.com/littlepure2333)
 [![GithubViews](https://api.freemotion-llc.com/api/github/v1/profile-views?username=littlepure2333)](https://github.com/littlepure2333)
 
