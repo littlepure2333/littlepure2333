@@ -4,6 +4,8 @@ I'm a novice to computer vision.
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
@@ -12,6 +14,7 @@ I'm a novice to computer vision.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/commonmark/commonmark-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
