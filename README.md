@@ -1,5 +1,7 @@
-# Little Pure 
-I'm a novice to computer vision.
+# About Me
+Hiya! I am currently a first-year Ph.D student at the amazing LV Lab @ NUS supervised by Prof. Xinchao Wang. Before joing LV Lab, I completed my B.E and M.S in Beijing University of Posts and Telecommunications, where I worked at PRIS Lab, under the supervision of Prof. Chuang Zhang.
+
+My research focuses on Computer Vision, espically interested on learning-based visual synthesis.
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
