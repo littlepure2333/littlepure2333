@@ -1,5 +1,5 @@
 # About Me
-Hiya! I’m Shizun Wang, currently a first-year Ph.D. student at the amazing LV Lab @ NUS, supervised by Prof. Xinchao Wang.
+Hiya! I’m Shizun Wang, currently a Ph.D. student at the amazing xML Lab @ NUS, supervised by Prof. Xinchao Wang.
 
 My research focuses on Computer Vision, with a particular interest in **learning-based visual content** (image/video/3D) **synthesis** (generation/editing/animating) **from multi-modality inputs** (text/brain signals).
 
